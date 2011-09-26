@@ -1,4 +1,4 @@
-Instruksjoner
+﻿Instruksjoner
 =============
 
 0. Gå til https://github.com/iterate/git-kurs-ntnu-2011-09-26
@@ -35,4 +35,4 @@ Kristian <klette@iterate.no>
 Stein Magnus <jodal@iterate.no>
 Tri <triminh@stud.ntnu.no>
 Roy Sindre Norangshol <roy.sindre@norangshol.no> (Rockj)
-
+Trond <trond.t@gmail.com>

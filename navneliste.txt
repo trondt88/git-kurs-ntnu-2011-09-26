@@ -33,3 +33,4 @@ Navneliste
 
 Kristian <klette@iterate.no>
 Stein Magnus <jodal@iterate.no>
+Tri <triminh@stud.ntnu.no>

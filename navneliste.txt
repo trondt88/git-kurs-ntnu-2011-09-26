@@ -32,3 +32,4 @@ Navneliste
 ==========
 
 Kristian <klette@iterate.no>
+Stein Magnus <jodal@iterate.no>

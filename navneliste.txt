@@ -34,3 +34,5 @@ Navneliste
 Kristian <klette@iterate.no>
 Stein Magnus <jodal@iterate.no>
 Tri <triminh@stud.ntnu.no>
+Roy Sindre Norangshol <roy.sindre@norangshol.no> (Rockj)
+
